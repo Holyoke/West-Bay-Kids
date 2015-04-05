@@ -1,0 +1,41 @@
+.lw { font-size: 60px; }
+
+body {
+  margin: 50px 0;
+  padding:  0px;
+}
+
+body * {
+  margin-left: auto;
+  margin-right: auto;
+  width:  300;
+  padding: 15px;
+
+}
+
+div.item1 {
+  font-size:  3em;
+  text-align: center;
+}
+
+.item4{
+  text-align: center;
+}
+
+.donate-button {
+  text-align: center;
+  display: block;
+  margin: auto;
+  position: relative;
+  left: -30px;
+}
+
+.donate-button img{
+  width: 300px; 
+}
+
+.str *{
+  font-size: 2em;
+  text-align: center;
+}
+
